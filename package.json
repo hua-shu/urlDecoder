@@ -1,0 +1,16 @@
+{
+  "name": "decode-url-app",
+  "version": "1.0.0",
+  "description": "A Node.js app that decodes URL and extracts job posting URL.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.17.3"
+  },
+  "author": "",
+  "license": "MIT"
+}
